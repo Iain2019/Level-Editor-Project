@@ -1,0 +1,35 @@
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\CT4027 - Tools - Level Editor Project.exe.config
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\CT4027 - Tools - Level Editor Project.exe
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\CT4027 - Tools - Level Editor Project.pdb
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csprojAssemblyReference.cache
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\MainWindow.g.cs
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\App.g.cs
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project_MarkupCompile.cache
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project_MarkupCompile.lref
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\MainWindow.baml
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.g.resources
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027___Tools___Level_Editor_Project.Properties.Resources.resources
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csproj.GenerateResource.cache
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.exe
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.pdb
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\Newtonsoft.Json.dll
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\Newtonsoft.Json.xml
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csproj.CopyComplete
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\CT4027 - Tools - Level Editor Project.exe.config
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\CT4027 - Tools - Level Editor Project.exe
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\CT4027 - Tools - Level Editor Project.pdb
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\MainWindow.g.cs
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\App.g.cs
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project_MarkupCompile.cache
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project_MarkupCompile.lref
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\MainWindow.baml
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.g.resources
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027___Tools___Level_Editor_Project.Properties.Resources.resources
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csproj.CopyComplete
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.exe
+C:\Users\Ian\Desktop\University Work\Year 1\Optional Modules\Semester 1\CT4027 - Tools Programming\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.pdb
+C:\CT4027 - Tools - Level Editor Project\CT4027 - Tools - Level Editor Project\obj\Debug\CT4027 - Tools - Level Editor Project.csproj.CoreCompileInputs.cache
